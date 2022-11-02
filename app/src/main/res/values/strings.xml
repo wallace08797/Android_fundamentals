@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android_fundamentals</string>
+
+    <string-array name="content">
+        <item>please select an mode of payment</item>
+        <item>
+            Cash
+        </item>
+        <item>
+            UPI payment
+        </item>
+        <item>
+            Net Banking
+        </item>
+        <item>
+            credit/debit card
+        </item>
+        <item>
+            no fucking money
+        </item>
+    </string-array>
+</resources>
